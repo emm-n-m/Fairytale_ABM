@@ -1,6 +1,6 @@
 # Exotic Political Systems: Agent-Based Models
 
-Agent-based simulations exploring unconventional governance structures through NetLogo. These models emerged from creative writing projects but attempt to implement a rigorous evalutation of absolutely absurd systems( with Dragons).
+Agent-based simulations exploring unconventional governance structures through NetLogo. These models emerged from creative writing projects but aim to implement a rigorous evaluation of absolutely absurd systems (with Dragons).
 
 
 ## Technical Details
